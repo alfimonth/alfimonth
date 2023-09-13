@@ -14,9 +14,9 @@
 
 - 🌱 I’m currently learning **Full Stack Dev.**
   
-- 🚀  Like & have an interest in AI and Machine Learning
+- 🚀  Like & have an interest in AI and Machine Learning.
 
-- ⚡ Fun fact: I love watching anime, and playing strategy games.
+- ⚡ Fun fact: I love playing strategy games, and watching anime.
 
 
 <br/>
