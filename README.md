@@ -1,7 +1,7 @@
 <h1 align="center">Hello World, I'm Alfi 👋.</h1>
-<h3 align="center">Thanks for visiting me</h3>
+<h3 align="center">Thanks for visiting <a href="https://alfimonth.github.io/" target="_blank">me</a></h3>
 
-## 🙋‍♂️ About Me | <img src="https://komarev.com/ghpvc/?username=alfimonth&color=blueviolet" alt="Profile views" /> 
+## 🙋‍♂️ About Me <img src="https://komarev.com/ghpvc/?username=alfimonth&color=blueviolet" alt="Profile views" /> 
 
 <p align="left" style="background:blue">
   <a href="https://www.instagram.com/allfine_83/?hl=id" target="_blank">
