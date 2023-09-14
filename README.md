@@ -1,5 +1,5 @@
 <h1 align="center">Hello World, I'm Alfi 👋.</h1>
-<h3 align="center">Thanks for visiting <a href="https://alfimonth.github.io/" target="_blank">me</a></h3>
+<a href="https://alfimonth.github.io/" target="_blank"><h3 align="center">Thanks for visiting me</h3></a>
 
 ## 🙋‍♂️ About Me <img src="https://komarev.com/ghpvc/?username=alfimonth&color=blueviolet" alt="Profile views" /> 
 
